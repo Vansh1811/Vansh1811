@@ -17,7 +17,7 @@
   - 📬 Email parsing and productivity tools  
 - 💬 Always learning and open to collaboration on impactful open-source or side projects  
 - 📫 Reach me at:  
-  [![Email](https://img.shields.io/badge/Gmail-vanshsharma1811%40gmail.com-red?style=flat-square&logo=gmail)](mailto:vanshsharma1811@gmail.com)  
+  [![Email](https://img.shields.io/badge/Gmail-vanshsharma1811%40gmail.com-red?style=flat-square&logo=gmail)](mailto:s.vansh1811@gmail.com)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Sharma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vanshsharma1811/)
 
 ---
