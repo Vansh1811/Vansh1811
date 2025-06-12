@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 👨‍🎓 Self-taught developer focused on solving real-world problems with code  
+- 👨‍🎓 Self-taught developer focused on solving real-world problems with code   
 - 🌱 Currently diving deep into: **MERN Stack**, **Next.js**, **Tailwind CSS**, and **API Integrations**  
 - 💡 Fascinated by:  
   - ✨ Gmail and account automation  
