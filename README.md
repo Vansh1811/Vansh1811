@@ -47,7 +47,7 @@ const vansh = {
 
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
-| 🚀 **[InboxIt](https://github.com/Vansh1811)** | Gmail-integrated inbox application with OAuth2, Redis caching, real-time email sync & Docker-containerized architecture | Node.js · Express · MongoDB · Redis · Docker · OAuth2 | 🔥 Active |
+| 🚀 **[InboxIt](https://github.com/Vansh1811)** | Gmail-integrated inbox application with OAuth2, Redis caching, real-time email sync & Docker-containerized architecture | Node.js · Express · MongoDB · Redis · Docker · OAuth2 | ✅ Live |
 | 🌐 **[Unfold Finleg Solutions](https://github.com/Vansh1811)** | Production business website with full backend — email automation via Zoho SMTP, custom domain, scalable API | Next.js · React · TypeScript · Node.js · MongoDB · Zoho | ✅ Live |
 | 🎬 **[MovieMate](https://github.com/Vansh1811)** | Movie discovery application with rich UI and API integration | React · Node.js · REST APIs | ✅ Live |
 
