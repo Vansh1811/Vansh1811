@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vansh%20Sharma&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Design%20Nerd%20%7C%20Building%20at%20Scale&descAlignY=55&descSize=18" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6AD9F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+Engineer+%F0%9F%9A%80;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis+%7C+Docker;System+Design+%7C+Scalable+Architecture+%F0%9F%94%A5;Currently+Building+InboxIt+%E2%80%94+Gmail+at+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6AD9F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+Engineer+%F0%9F%9A%80;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis+%7C+Docker;System+Design+%7C+Scalable+Architecture+%F0%9F%94%A5;Currently+Building+InboxIt+%E2%80%94+Gmail+at+Scale" alt="Typing SVG" /> 
 
 <br/>
 
