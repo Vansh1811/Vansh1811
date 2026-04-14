@@ -35,7 +35,7 @@ const vansh = {
   },
   currentlyBuilding: "InboxIt — Gmail-powered inbox app at scale",
   currentlyLearning: ["System Design", "DSA", "ML Fundamentals"],
-  lifePhilosophy: "Ship fast. Design smart. Scale harder. 🔥",
+  lifePhilosophy: "Ship fast. Design smart. Scale harder. ",
 };
 ```
 
