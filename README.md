@@ -1,161 +1,99 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
+</div>
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vansh%20Sharma&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Design%20%7C%20Building%20at%20Scale&descAlignY=55&descSize=18" />
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6AD9F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+Engineer+%F0%9F%9A%80;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis+%7C+Docker;System+Design+%7C+Scalable+Architecture+%F0%9F%94%A5;Currently+Building+InboxIt+%E2%80%94+Gmail+at+Scale" alt="Typing SVG" /> 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%E2%80%94+Node.js+%2F+TypeScript;Building+systems+that+scale+under+pressure;Open+source+contributor+%40+Pipedream;Distributed+systems+%7C+Redis+%7C+Docker+%7C+OAuth2" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma1811/)
-[![Email](https://img.shields.io/badge/Gmail-s.vansh1811@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.vansh1811@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Vansh1811-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vansh1811)
-[![Profile Views](https://komarev.com/ghpvc/?username=Vansh1811&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/Vansh1811)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/vanshsharma1811/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:s.vansh1811@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vansh1811&style=flat-square&color=58A6FF&label=profile+views"/>
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## About
 
-```typescript
+Backend engineer focused on building production-ready systems. I work primarily in **Node.js / TypeScript**, with a strong interest in how things behave at scale: caching layers, job queues, OAuth flows, and distributed architectures.
+
+Currently contributing to **[Pipedream](https://github.com/PipedreamHQ/pipedream)** open source and building **InboxIt** — a Gmail automation backend with OAuth2, BullMQ, Redis, and Docker.
+
+```ts
 const vansh = {
-  name: "Vansh Sharma",
-  location: "Noida, India 🇮🇳",
-  role: "Backend Software Engineer",
-  languages: ["TypeScript", "JavaScript", "Python"],
-  stack: {
-    backend: ["Node.js", "Express.js", "FastAPI"],
-    frontend: ["Next.js", "React", "Tailwind CSS"],
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
-    devOps: ["Docker", "GitHub Actions", "Render", "Vercel"],
-    tools: ["Postman", "VS Code", "Git"],
-  },
-  currentlyBuilding: "InboxIt — Gmail-powered inbox app at scale",
-  currentlyLearning: ["System Design", "DSA", "ML Fundamentals"],
-  lifePhilosophy: "Ship fast. Design smart. Scale harder. ",
-};
+  stack:    ["Node.js", "TypeScript", "Express", "FastAPI"],
+  data:     ["MongoDB", "PostgreSQL", "Redis"],
+  infra:    ["Docker", "GitHub Actions", "Render", "Vercel"],
+  building: "InboxIt — Gmail sync, classification & automation at scale",
+  learning: ["System Design", "DSA", "ML Engineering"],
+} as const;
 ```
 
 ---
 
-## 🚀 Featured Projects
+## Projects
+
+| | Project | What it does | Stack |
+|--|---------|-------------|-------|
+| ⚡ | **[InboxIt](https://github.com/Vansh1811)** | Gmail OAuth2 sync engine with BullMQ job queues, Redis caching, real-time classification, Docker-containerized | Node.js · Express · MongoDB · Redis · BullMQ · Docker |
+| 🌐 | **[Unfold Finleg Solutions](https://github.com/Vansh1811)** | Production business site with Zoho SMTP automation, custom domain, scalable contact API | Next.js · TypeScript · MongoDB · Zoho SMTP |
+| 🔧 | **[Pipedream Contributions](https://github.com/PipedreamHQ/pipedream)** | Open source integrations — Hiver API (5 actions, pagination, dynamic dropdowns), Microsoft Teams inline image support via Graph API | Node.js · REST APIs |
+
+---
+
+## Stack
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|--------|-------------|------------|--------|
-| 🚀 **[InboxIt](https://github.com/Vansh1811)** | Gmail-integrated inbox application with OAuth2, Redis caching, real-time email sync & Docker-containerized architecture | Node.js · Express · MongoDB · Redis · Docker · OAuth2 | ✅ Live |
-| 🌐 **[Unfold Finleg Solutions](https://github.com/Vansh1811)** | Production business website with full backend — email automation via Zoho SMTP, custom domain, scalable API | Next.js · React · TypeScript · Node.js · MongoDB · Zoho | ✅ Live |
-| 🎬 **[MovieMate](https://github.com/Vansh1811)** | Movie discovery application with rich UI and API integration | React · Node.js · REST APIs | ✅ Live |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## GitHub Stats
 
 <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vansh1811&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh1811&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Databases & Caching**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh1811&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Open Source
 
-<div align="center">
+Contributing to **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** — building third-party API integrations used by thousands of workflows.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vansh1811&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD9F7&icon_color=6AD9F7&text_color=FFFFFF&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh1811&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD9F7&fire=FF4500&currStreakLabel=6AD9F7" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh1811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD9F7&text_color=FFFFFF&langs_count=8" />
-
-</div>
-
----
-
-## 🏗️ System Design Interests
-
-```
-🔧 What gets me excited:
-
-  ├── ⚡ Redis caching strategies (write-through, lazy loading)
-  ├── 🐳 Docker + containerized microservices
-  ├── 🔐 OAuth2 flows & JWT authentication
-  ├── 📬 Email queuing systems & async job processing
-  ├── 📈 Load balancing & horizontal scaling
-  ├── 🔄 CI/CD pipelines & production deployments
-  └── 🤖 ML-powered backend services (coming soon!)
-```
-
----
-
-## 🎯 2026 Goals
-
-- [x] 🚀 Build and deploy production-grade backend projects
-- [x] 🐳 Master Docker & containerization
-- [x] 🔐 Implement OAuth2 + Redis at scale (InboxIt)
-- [ ] 💼 Land a Backend Software Engineering role
-- [ ] 📐 Deep-dive into advanced system design patterns
-- [ ] 🧮 Crack 200+ LeetCode problems
-- [ ] 🤖 Build first ML-powered API with FastAPI
-
----
-
-## ⚡ Fun Facts
-
-> 🧠 **Self-taught** — no CS degree required when you have curiosity + Stack Overflow + YouTube at 2AM.
-
-> 🔥 **Built a full email automation system** with OAuth2, Redis queuing & Docker from scratch — because sending emails manually is for mortals.
-
-> ♟️ **Chess enthusiast** — because every bug is just a bad move you can learn from.
-
-> 💡 The journey: Curious teenager → Frontend dev → Full Stack → **Backend Engineer obsessed with scale**.
+- **Hiver** — full integration from scratch: 5 actions, dynamic prop dropdowns with pagination, Bearer token auth
+- **Microsoft Teams** — added `hostedContents` support to enable inline base64 image sending via Microsoft Graph API
 
 ---
 
 <div align="center">
-
-### 💬 Let's Build Something Incredible Together
-
-[![LinkedIn](https://img.shields.io/badge/Hit%20me%20up%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanshsharma1811/)
-[![Email](https://img.shields.io/badge/Drop%20a%20mail-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:s.vansh1811@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 </div>
