@@ -1,16 +1,14 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0d1117&height=220&section=header&text=Vansh%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Systems%20Architect%20%7C%20Backend%20Engineer%20%7C%20Building%20at%20Scale&descAlignY=58&descSize=18&animation=twinkling&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0d1117&height=220&section=header&text=Vansh%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Building%20at%20Scale&descAlignY=58&descSize=18&animation=twinkling&fontAlign=50" width="100%"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%E2%80%94+Node.js+%2F+TypeScript;Building+Fault-Tolerant+Distributed+Systems;Redis+%7C+BullMQ+%7C+Docker+%7C+Kubernetes;OAuth2+%7C+JWT+%7C+WebSockets+%7C+REST+APIs;Open+Source+Contributor+%40+Pipedream;Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=760&lines=Backend+Engineer+%E2%80%94+Node.js+%2F+TypeScript;Building+Fault-Tolerant+Distributed+Systems;Redis+%7C+BullMQ+%7C+Docker+%7C+FastAPI;LangChain+%7C+Agentic+AI+%7C+LLM+Workflows;Open+Source+Contributor+%7C+Backend+Builder;Shipping+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Stats Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma1811v)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.vansh1811@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vansh1811)
@@ -27,40 +25,43 @@
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```typescript
-const vansh: SystemsArchitect = {
-  name:      "Vansh Sharma",
-  title:     "Backend Engineer",
-  location:  "Noida, India 🇮🇳",
-  stack:     ["Node.js", "TypeScript", "Express", "FastAPI"],
+const vansh: BackendEngineer = {
+  name: "Vansh Sharma",
+  title: "Backend Engineer",
+  location: "Noida, India 🇮🇳",
+  coreStack: ["Node.js", "TypeScript", "Express", "FastAPI"],
+  aiStack: ["LangChain", "Agentic AI", "LLM Workflows"],
   databases: ["MongoDB", "PostgreSQL", "Redis"],
-  infra:     ["Docker", "GitHub Actions", "Render", "Vercel"],
-  flagship:  "InboxIt — Gmail automation engine at scale",
-  learning:  ["System Design", "DSA", "ML Engineering"],
-  os:        "always shipping 🚀",
+  infra: ["Docker", "GitHub Actions", "Render", "Vercel"],
+  currentFocus: ["Distributed Systems", "Event-Driven Architecture", "Production APIs"],
+  learning: ["System Design", "DSA", "RNNs", "Agentic AI Systems"],
+  flagship: "InboxIt — Gmail sync and classification engine",
+  status: "shipping backend systems 🚀",
 };
 ```
 
-- 🔭 Building **[InboxIt](https://github.com/Vansh1811)** — a Gmail sync & classification engine with OAuth2, BullMQ, Redis, Socket.io & Docker
-- 🌍 Open-source contributor at **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** — powering third-party API integrations for thousands of devs
-- ⚡ Reduced API latency by **40%** via Redis cache-aside strategy + PostgreSQL query optimization
-- 🎯 Focused on **fault-tolerant distributed systems**, **event-driven architecture**, and **production-grade APIs**
-- 📚 Daily grinding: **DSA**, **System Design**, **LeetCode**
-- 💬 Ask me about: `Node.js` `TypeScript` `REST APIs` `Redis` `OAuth2` `Docker`
+- 🔭 Building **[InboxIt](https://github.com/Vansh1811/InboxIt)** — a Gmail sync and classification engine with OAuth2, BullMQ, Redis, Socket.io, Docker, and AI-powered workflows
+- 🌍 Open-source contributor across **major OSS and company-backed repositories** — add every merged contribution here, not just one
+- ⚡ Focused on **fault-tolerant distributed systems**, **event-driven architecture**, and **production-grade APIs**
+- 🤖 Worked with **LangChain**, **agentic AI patterns**, and practical **LLM workflows**
+- 📚 Currently studying **System Design**, **DSA**, **RNNs**, and applied AI engineering
+- 💬 Ask me about: `Node.js` `TypeScript` `REST APIs` `Redis` `BullMQ` `OAuth2` `Docker` `LangChain`
 
 ---
 
 ## 🛠️ Tech Stack, IDEs & AI Tools
 
----
-
 ### 🤖 AI Engineering & Agents
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0F172A?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Workflows](https://img.shields.io/badge/LLM%20Workflows-111827?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
-### 📱 Mobile & Web App
+### 📱 Web & Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,6 +77,7 @@ const vansh: SystemsArchitect = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-C2410C?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🗄️ Databases & DevOps
 
@@ -91,10 +93,20 @@ const vansh: SystemsArchitect = {
 ### 💻 IDEs & Productivity
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0F172A?style=for-the-badge&logo=codeium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F97316?style=for-the-badge&logo=bruno&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+
+---
+
+## 🌍 Open Source Contributions
+
+- **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** — integrations and workflow automation contributions
+- Add every other **big-company** or **major OSS** repo where you have a merged PR
+- Keep the format as: `Org/Repo — what you contributed`
 
 ---
 
@@ -111,7 +123,6 @@ const vansh: SystemsArchitect = {
 
 <br/>
 
-<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh1811&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
@@ -157,7 +168,7 @@ const vansh: SystemsArchitect = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0D1117&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**⚡ Vansh Sharma — Building systems that scale. Always shipping. 🚀**
+**⚡ Vansh Sharma — Backend systems, AI workflows, and scalable engineering. 🚀**
 
 *"Code is the closest thing we have to a superpower."*
 
