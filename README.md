@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0d1117&height=220&section=header&text=Vansh%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Building%20at%20Scale&descAlignY=58&descSize=18&animation=twinkling&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0d1117&height=220&section=header&text=Vansh%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%2FLLM%20Engineering%20%7C%20Building%20at%20Scale&descAlignY=58&descSize=18&animation=twinkling&fontAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=760&lines=Backend+Engineer+%E2%80%94+Node.js+%2F+TypeScript;Building+Fault-Tolerant+Distributed+Systems;Redis+%7C+BullMQ+%7C+Docker+%7C+FastAPI;LangChain+%7C+Agentic+AI+%7C+LLM+Workflows;Open+Source+Contributor+%7C+Backend+Builder;Shipping+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
