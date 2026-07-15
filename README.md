@@ -147,8 +147,8 @@ const vansh: BackendEngineer = {
 
 <div align="center">
 
-[![InboxIt](https://github-readme-stats.vercel.app/api/pin/?username=Vansh1811&repo=InboxIt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Vansh1811/InboxIt)
-[![Unfold Finleg](https://github-readme-stats.vercel.app/api/pin/?username=Vansh1811&repo=unfold-finleg-solutions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Vansh1811/unfold-finleg-solutions)
+[![InboxIt](https://github-readme-stats-hetzpabvx-vansh1811s-projects.vercel.app/api/pin/?username=Vansh1811&repo=InboxIt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Vansh1811/InboxIt)
+[![Unfold Finleg](https://github-readme-stats-hetzpabvx-vansh1811s-projects.vercel.app/api/pin/?username=Vansh1811&repo=unfold-finleg-solutions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF)](https://github.com/Vansh1811/unfold-finleg-solutions)
 
 </div>
 
