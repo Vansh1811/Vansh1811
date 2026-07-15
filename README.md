@@ -104,9 +104,13 @@ const vansh: BackendEngineer = {
 
 ## 🌍 Open Source Contributions
 
-- **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** — integrations and workflow automation contributions
-- Add every other **big-company** or **major OSS** repo where you have a merged PR
-- Keep the format as: `Org/Repo — what you contributed`
+- **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** — Added 6 new actions for DataForB2B (search people, search company, agentic search, text to filters, enrich profile, enrich company)
+- **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** — Added 5 new actions for Hiver (get inbox, list inboxes, list conversations, list tags, list users)
+- **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** — Added `hostedContents` support to Microsoft Teams send-channel-message action
+- **[supabase/supabase-js](https://github.com/supabase/supabase-js)** — Fixed PostgrestError wrapping on processResponse; fixed Cloudflare error codes in NETWORK_ERROR_CODES
+- **[expressjs/express](https://github.com/expressjs/express)** — Fixed deprecated npm install docs URL in README
+- **[expressjs/cors](https://github.com/expressjs/cors)** — Fixed deprecated `app.del()` → `app.delete()` in README example
+- **[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)** — Fixed incorrect JSX code fence in ch03.0 docs
 
 ---
 
