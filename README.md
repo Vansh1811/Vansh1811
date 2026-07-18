@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- Animated Header Banner --> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0d1117&height=220&section=header&text=Vansh%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%2FLLM%20Engineering%20%7C%20Building%20at%20Scale&descAlignY=58&descSize=18&animation=twinkling&fontAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
